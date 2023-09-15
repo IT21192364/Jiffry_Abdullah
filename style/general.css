@@ -1,0 +1,19 @@
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+body {
+  /* This style below will be inherited */
+  font-family: Roboto, Arial;
+  padding-bottom: 1vh;
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin: 0;
+  padding: 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed ;  
+  background-image: url('https://www.eastmotorcars.com/Dealer-Websites/Eastchester-Motor-Cars-NY/images/makes_bg.jpg');
+  }
